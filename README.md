@@ -4,8 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 ## package 
-  sqflite: ^2.2.2 \n
-  path_provider: ^2.0.11
+ # sqflite: ^2.2.2 
+ # path_provider: ^2.0.11
 
 This project is a starting point for a Flutter application.
 
